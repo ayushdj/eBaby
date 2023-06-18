@@ -1,6 +1,5 @@
 package com.example.springtemplate.repositories;
 
-import com.example.springtemplate.models.Inventory;
 import com.example.springtemplate.models.Product;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
